@@ -29,3 +29,42 @@ ___player: 7
 ___dealer: 18
 ___player lost
 Player's chips: 102
+
+♣♦♥♠ Welcome to Blackjack! ♣♦♥♠
+
+♣♦♥♠ Welcome to Blackjack! ♣♦♥♠
+
+♣♦♥♠ Game finish ♣♦♥♠
+RESULTS:
+___player: 31 (bust)
+___dealer: 19
+___player lost (bust)
+Player's chips: 100
+
+♣♦♥♠ Game finish ♣♦♥♠
+RESULTS:
+___player: 28 (bust)
+___dealer: 15
+___player lost (bust)
+Player's chips: 100
+
+♣♦♥♠ Game finish ♣♦♥♠
+RESULTS:
+___player: 11
+___dealer: 21
+___player lost
+Player's chips: 100
+
+♣♦♥♠ Game finish ♣♦♥♠
+RESULTS:
+___player: 21 (blackjack)
+___dealer: 13
+___player won (blackjack)
+Player's chips: 104
+
+♣♦♥♠ Game finish ♣♦♥♠
+RESULTS:
+___player: 13
+___dealer: 19
+___player lost (bust)
+Player's chips: 100
