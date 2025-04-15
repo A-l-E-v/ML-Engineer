@@ -13,7 +13,7 @@ b = int(input())
 count = 0
 for num in range(a, b + 1):
     if num % 77 == 0:
-        print (num)
+        # print (num)
         count += 1
 
 print(count)
